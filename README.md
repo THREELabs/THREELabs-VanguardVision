@@ -122,9 +122,6 @@ The program maintains detailed logs in `buffett_tracker.log`, including:
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 - SEC EDGAR for providing 13F filing data
 - Yahoo Finance for real-time stock information
